@@ -61,7 +61,7 @@ client.on("guildMemberRemove", (member) => {
   if (!channel) return console.log("[ERROR] Leave channel not found");
 
   const embed = new EmbedBuilder()
-    .setColor("#480FB4")
+    .setColor("#81058D")
     .setTitle(`👋 Goodbye from ${member.guild.name}`)
     .setDescription(
 `<@${member.id}> has left the server.
