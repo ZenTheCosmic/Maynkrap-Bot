@@ -39,7 +39,7 @@ Welcome to **Maynkrap Server!**
 🧱 Survival • ⚔️ PvP • 🏗️ Building  
 🔴 Redstone • 🌍 Exploration  
 
-📜 Read the rules in <#1485230100348797060>  
+📜 Read the rules in <#1434403930653069431>  
 💬 Chat with others in <#1434403931601113199>  
 
 Enjoy your stay and have fun! ✨`
