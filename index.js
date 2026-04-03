@@ -126,8 +126,7 @@ client.on("messageCreate", async (message) => {
     const embed = new EmbedBuilder()
       .setColor(color)
       .setTitle(title)
-      .setDescription(description)
-      .setTimestamp();
+      .setDescription(description) 
 
     // 👇 ONLY SHOW ICON IF YOU TYPE "icon"
     if (showIcon) {
