@@ -29,7 +29,7 @@ client.on("guildMemberAdd", (member) => {
   if (!channel) return console.log("[ERROR] Welcome channel not found");
 
   const embed = new EmbedBuilder()
-    .setColor("#480FB4")
+    .setColor("#ff00e9")
     .setTitle(`🎉 Welcome to ${member.guild.name}!`)
     .setDescription(
 `Hello <@${member.id}> 👋
@@ -61,7 +61,7 @@ client.on("guildMemberRemove", (member) => {
   if (!channel) return console.log("[ERROR] Leave channel not found");
 
   const embed = new EmbedBuilder()
-    .setColor("#81058D")
+    .setColor("#480FB4")
     .setTitle(`👋 Goodbye from ${member.guild.name}`)
     .setDescription(
 `<@${member.id}> has left the server.
